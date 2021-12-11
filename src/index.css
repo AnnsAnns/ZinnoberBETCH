@@ -26,3 +26,14 @@ body {
 .outputBox {
     max-width: 90%;
 }
+
+.infos {
+    font-size: 50%;
+    text-align: left;
+}
+
+.img {
+    border-radius: 50%;
+    width: 15%;
+    height: auto;
+}

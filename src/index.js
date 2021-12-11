@@ -118,8 +118,27 @@ class Main extends React.Component {
       <div className="container">
         <div className="row">
           <div className="col">
-            BETCH WebApp
-            <h4 className="infoText text-dark">Type the error code here:</h4>
+            <a href="https://github.com/tumGER/ZinnoberBETCH">Source</a>
+          </div>
+          <div className="col">
+            <a href="https://tomGER.eu">My Website</a>
+          </div>
+          <div className="col">
+            <a href="https://github.com/tumGER/BETCH">BETCH</a>
+          </div>
+          <div className="col">
+            <a href="https://discord.com/api/oauth2/authorize?client_id=520331685104189452&permissions=0&scope=bot%20applications.commands">Discord Bot</a>
+          </div>
+        </div>
+        <hr></hr><br />
+        <div className="row">
+          <div className="col">
+            <img src="logo.png" className="img"></img><p/>
+            Zinnober BETCH
+            <h4 className="infoText text-dark">
+              <p className="text-light">Switch Error Lookup</p>
+              Type the error code here:
+            </h4><p />
           </div>
         </div>
         <div className="row">
