@@ -133,7 +133,7 @@ class Main extends React.Component {
         <hr></hr><br />
         <div className="row">
           <div className="col">
-            <img src="logo.png" className="img"></img><p/>
+            <img src="logo.png" className="img" alt="Logo of BETCH"></img><p/>
             Zinnober BETCH
             <h4 className="infoText text-dark">
               <p className="text-light">Switch Error Lookup</p>
